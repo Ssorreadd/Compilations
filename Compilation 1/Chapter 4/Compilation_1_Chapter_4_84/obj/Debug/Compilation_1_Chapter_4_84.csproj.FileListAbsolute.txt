@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\bin\Debug\Compilation_1_Chapter_4_84.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\bin\Debug\Compilation_1_Chapter_4_84.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\bin\Debug\Compilation_1_Chapter_4_84.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\obj\Debug\Compilation_1_Chapter_4_84.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\obj\Debug\Compilation_1_Chapter_4_84.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\obj\Debug\Compilation_1_Chapter_4_84.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 4\Compilation_1_Chapter_4_84\obj\Debug\Compilation_1_Chapter_4_84.pdb

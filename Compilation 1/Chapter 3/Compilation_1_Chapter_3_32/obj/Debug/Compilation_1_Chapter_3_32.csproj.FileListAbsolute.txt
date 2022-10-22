@@ -1,0 +1,7 @@
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\bin\Debug\Compilation_1_Chapter_3_32.exe.config
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\bin\Debug\Compilation_1_Chapter_3_32.exe
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\bin\Debug\Compilation_1_Chapter_3_32.pdb
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\obj\Debug\Compilation_1_Chapter_3_32.csproj.AssemblyReference.cache
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\obj\Debug\Compilation_1_Chapter_3_32.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\obj\Debug\Compilation_1_Chapter_3_32.exe
+C:\Users\Студент.PC7\Desktop\Compilation 1\Compilation_1_Chapter_3_32\obj\Debug\Compilation_1_Chapter_3_32.pdb
