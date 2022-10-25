@@ -11,8 +11,9 @@ namespace Compilation_1_Chapter_2_6
 
         public static int GetFullHours()
         {
-            //1 минута = 60 секунд;
-            //1 час = 60 минут;
+            if (CountOfSeconds < 3600)
+                return 0;
+
             return (int)Math.Round(((double)CountOfSeconds / 60) / 60);     
         }
 
@@ -22,14 +23,13 @@ namespace Compilation_1_Chapter_2_6
 
             int hours = GetFullHours();
 
-            //3200 сек
-            //400сек
-            //
-
-            while (hours != 1)
+            if (hours != 0)
             {
-                seconds -= 3600;
-                hours--;
+                while (hours != 1)
+                {
+                    seconds -= 3600;
+                    hours--;
+                }
             }
 
             int minutes = (int)Math.Round(seconds / 60);
@@ -48,12 +48,15 @@ namespace Compilation_1_Chapter_2_6
 
             int seconds = CountOfSeconds;
 
-            while (hours != 1)
+            if (hours != 0)
             {
-                seconds -= 3600;
-                hours--;
+                while (hours != 1)
+                {
+                    seconds -= 3600;
+                    hours--;
+                }
             }
-
+            
             while (seconds - 60 > 0)
             {
                 seconds -= 60;

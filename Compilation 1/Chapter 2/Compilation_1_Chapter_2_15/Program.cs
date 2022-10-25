@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter_02
+namespace Compilation_1_Chapter_2_15
 {
     class Program
     {
@@ -37,8 +37,6 @@ namespace Chapter_02
 
                 return "Входная строка имела неверный формат.\n";
             }
-
-            //string newNum = oldNum.Replace(oldNum[0], oldNum[2]);
 
             string newNum = $"{oldNum[2]}{oldNum[0]}{oldNum[1]}";
 

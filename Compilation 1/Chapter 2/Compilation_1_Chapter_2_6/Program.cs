@@ -1,5 +1,4 @@
 ﻿using System;
-using SsorreaddDev.ColorManager;
 
 namespace Compilation_1_Chapter_2_6
 {
@@ -16,20 +15,12 @@ namespace Compilation_1_Chapter_2_6
 
                 Console.Clear();
 
-                ChangeConsoleColor.WellDoneColor();
                 Console.WriteLine("Новое значение секунд установлено!\n");
-
-                ChangeConsoleColor.Reset();
             }
             catch (Exception ex)
             {
                 Console.Clear();
-
-                ChangeConsoleColor.ExceptionColor();
-
                 Console.WriteLine(ex.Message + "\n");
-
-                ChangeConsoleColor.Reset();
             }
         }
 
@@ -66,12 +57,7 @@ namespace Compilation_1_Chapter_2_6
         static void ActionDoesntExist()
         {
             Console.Clear();
-
-            ChangeConsoleColor.ExceptionColor();
-
             Console.WriteLine("Такого действия не существует\n");
-
-            ChangeConsoleColor.Reset();
         }
 
         static void CalculationPage()
@@ -86,10 +72,7 @@ namespace Compilation_1_Chapter_2_6
                 {
                     if (TimeManager.CountOfSeconds == 0)
                     {
-                        ChangeConsoleColor.ExceptionColor();
                         Console.WriteLine("Значение секунд не установлено.\n");
-
-                        ChangeConsoleColor.Reset();
                         return;
                     }
 
@@ -133,9 +116,7 @@ namespace Compilation_1_Chapter_2_6
 
             Console.WriteLine($"Установленное значение секунд: {TimeManager.CountOfSeconds}\n");
 
-            ChangeConsoleColor.WellDoneColor();
             Console.WriteLine($"Полных часов прошло с начала суток: {TimeManager.GetFullHours()}\n");
-            ChangeConsoleColor.Reset();
         }
 
         static void GetFullMinutes()
@@ -144,9 +125,7 @@ namespace Compilation_1_Chapter_2_6
 
             Console.WriteLine($"Установленное значение секунд: {TimeManager.CountOfSeconds}\n");
 
-            ChangeConsoleColor.WellDoneColor();
             Console.WriteLine($"Полных минут прошло с начала очередного часа: {TimeManager.GetFullMinutes()}\n");
-            ChangeConsoleColor.Reset();
         }
 
         static void GetFullSeconds()
@@ -155,9 +134,7 @@ namespace Compilation_1_Chapter_2_6
 
             Console.WriteLine($"Установленное значение секунд: {TimeManager.CountOfSeconds}\n");
 
-            ChangeConsoleColor.WellDoneColor();
             Console.WriteLine($"Полных секунд прошло с начала очередной минуты: {TimeManager.GetFullSeconds()}\n");
-            ChangeConsoleColor.Reset();
         }
     }
 }
