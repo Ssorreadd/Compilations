@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\bin\Debug\Compilation_1_Capter_5_95.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\bin\Debug\Compilation_1_Capter_5_95.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\bin\Debug\Compilation_1_Capter_5_95.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\obj\Debug\Compilation_1_Capter_5_95.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\obj\Debug\Compilation_1_Capter_5_95.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\obj\Debug\Compilation_1_Capter_5_95.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Capter_5_95\obj\Debug\Compilation_1_Capter_5_95.pdb

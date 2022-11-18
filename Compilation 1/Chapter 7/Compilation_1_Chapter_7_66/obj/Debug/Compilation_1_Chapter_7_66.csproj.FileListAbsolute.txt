@@ -1,0 +1,13 @@
+C:\Users\d169\source\repos\Compilation_1_Chapter_7_66\bin\Debug\Compilation_1_Chapter_7_66.exe.config
+C:\Users\d169\source\repos\Compilation_1_Chapter_7_66\bin\Debug\Compilation_1_Chapter_7_66.exe
+C:\Users\d169\source\repos\Compilation_1_Chapter_7_66\bin\Debug\Compilation_1_Chapter_7_66.pdb
+C:\Users\d169\source\repos\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.csproj.CoreCompileInputs.cache
+C:\Users\d169\source\repos\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.exe
+C:\Users\d169\source\repos\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\obj\Debug\Compilation_1_Chapter_7_66.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\bin\Debug\Compilation_1_Chapter_7_66.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\bin\Debug\Compilation_1_Chapter_7_66.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_66\bin\Debug\Compilation_1_Chapter_7_66.pdb

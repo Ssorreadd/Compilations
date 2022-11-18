@@ -1,0 +1,13 @@
+C:\Users\d169\source\repos\Compilation_1_Chapter_10_39\bin\Debug\Compilation_1_Chapter_10_39.exe.config
+C:\Users\d169\source\repos\Compilation_1_Chapter_10_39\bin\Debug\Compilation_1_Chapter_10_39.exe
+C:\Users\d169\source\repos\Compilation_1_Chapter_10_39\bin\Debug\Compilation_1_Chapter_10_39.pdb
+C:\Users\d169\source\repos\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.csproj.CoreCompileInputs.cache
+C:\Users\d169\source\repos\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.exe
+C:\Users\d169\source\repos\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\bin\Debug\Compilation_1_Chapter_10_39.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\bin\Debug\Compilation_1_Chapter_10_39.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\bin\Debug\Compilation_1_Chapter_10_39.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 10\Compilation_1_Chapter_10_39\obj\Debug\Compilation_1_Chapter_10_39.pdb

@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\bin\Debug\Compilation_1_Chapter_7_90.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\bin\Debug\Compilation_1_Chapter_7_90.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\bin\Debug\Compilation_1_Chapter_7_90.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\obj\Debug\Compilation_1_Chapter_7_90.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\obj\Debug\Compilation_1_Chapter_7_90.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\obj\Debug\Compilation_1_Chapter_7_90.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 7\Compilation_1_Chapter_7_90\obj\Debug\Compilation_1_Chapter_7_90.csproj.AssemblyReference.cache

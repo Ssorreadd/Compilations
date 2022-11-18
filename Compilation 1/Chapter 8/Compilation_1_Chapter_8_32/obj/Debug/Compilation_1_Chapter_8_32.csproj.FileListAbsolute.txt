@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\bin\Debug\Compilation_1_Chapter_8_32.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\bin\Debug\Compilation_1_Chapter_8_32.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\bin\Debug\Compilation_1_Chapter_8_32.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\obj\Debug\Compilation_1_Chapter_8_32.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\obj\Debug\Compilation_1_Chapter_8_32.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\obj\Debug\Compilation_1_Chapter_8_32.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 8\Compilation_1_Chapter_8_32\obj\Debug\Compilation_1_Chapter_8_32.pdb

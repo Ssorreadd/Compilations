@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\bin\Debug\Compilation_1_Chapter_5_70.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\bin\Debug\Compilation_1_Chapter_5_70.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\bin\Debug\Compilation_1_Chapter_5_70.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\obj\Debug\Compilation_1_Chapter_5_70.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\obj\Debug\Compilation_1_Chapter_5_70.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\obj\Debug\Compilation_1_Chapter_5_70.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_70\obj\Debug\Compilation_1_Chapter_5_70.pdb

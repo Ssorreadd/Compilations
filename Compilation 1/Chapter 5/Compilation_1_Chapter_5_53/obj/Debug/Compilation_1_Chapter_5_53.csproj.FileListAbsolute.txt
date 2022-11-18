@@ -1,0 +1,6 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_53\bin\Debug\Compilation_1_Chapter_5_53.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_53\bin\Debug\Compilation_1_Chapter_5_53.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_53\bin\Debug\Compilation_1_Chapter_5_53.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_53\obj\Debug\Compilation_1_Chapter_5_53.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_53\obj\Debug\Compilation_1_Chapter_5_53.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 5\Compilation_1_Chapter_5_53\obj\Debug\Compilation_1_Chapter_5_53.pdb

@@ -1,0 +1,6 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 9\Compilation_1_Chapter_9_3\bin\Debug\Compilation_1_Chapter_9_3.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 9\Compilation_1_Chapter_9_3\bin\Debug\Compilation_1_Chapter_9_3.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 9\Compilation_1_Chapter_9_3\bin\Debug\Compilation_1_Chapter_9_3.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 9\Compilation_1_Chapter_9_3\obj\Debug\Compilation_1_Chapter_9_3.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 9\Compilation_1_Chapter_9_3\obj\Debug\Compilation_1_Chapter_9_3.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 1\Chapter 9\Compilation_1_Chapter_9_3\obj\Debug\Compilation_1_Chapter_9_3.pdb

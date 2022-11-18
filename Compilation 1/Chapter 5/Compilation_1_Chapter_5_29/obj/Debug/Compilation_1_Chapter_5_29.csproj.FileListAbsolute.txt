@@ -1,0 +1,7 @@
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\bin\Debug\Compilation_1_Chapter_5_29.exe.config
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\bin\Debug\Compilation_1_Chapter_5_29.exe
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\bin\Debug\Compilation_1_Chapter_5_29.pdb
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\obj\Debug\Compilation_1_Chapter_5_29.csproj.AssemblyReference.cache
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\obj\Debug\Compilation_1_Chapter_5_29.csproj.CoreCompileInputs.cache
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\obj\Debug\Compilation_1_Chapter_5_29.exe
+C:\Users\d169\source\repos\Compilation_1_Chapter_5_29\obj\Debug\Compilation_1_Chapter_5_29.pdb
