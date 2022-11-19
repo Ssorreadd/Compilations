@@ -1,0 +1,6 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Integer\Compilation_2_Integer_15\bin\Debug\Compilation_2_Integer_15.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Integer\Compilation_2_Integer_15\bin\Debug\Compilation_2_Integer_15.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Integer\Compilation_2_Integer_15\bin\Debug\Compilation_2_Integer_15.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Integer\Compilation_2_Integer_15\obj\Debug\Compilation_2_Integer_15.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Integer\Compilation_2_Integer_15\obj\Debug\Compilation_2_Integer_15.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Integer\Compilation_2_Integer_15\obj\Debug\Compilation_2_Integer_15.pdb

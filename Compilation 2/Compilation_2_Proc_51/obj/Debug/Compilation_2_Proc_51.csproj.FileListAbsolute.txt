@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\bin\Debug\Compilation_2_Proc_51.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\bin\Debug\Compilation_2_Proc_51.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\bin\Debug\Compilation_2_Proc_51.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\obj\Debug\Compilation_2_Proc_51.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\obj\Debug\Compilation_2_Proc_51.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\obj\Debug\Compilation_2_Proc_51.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_51\obj\Debug\Compilation_2_Proc_51.pdb

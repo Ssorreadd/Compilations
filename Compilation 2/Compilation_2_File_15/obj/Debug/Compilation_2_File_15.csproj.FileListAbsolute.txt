@@ -1,0 +1,8 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\bin\Debug\Compilation_2_File_15.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\bin\Debug\Compilation_2_File_15.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\bin\Debug\Compilation_2_File_15.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\obj\Debug\Compilation_2_File_15.Properties.Resources.resources
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\obj\Debug\Compilation_2_File_15.csproj.GenerateResource.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\obj\Debug\Compilation_2_File_15.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\obj\Debug\Compilation_2_File_15.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_File_15\obj\Debug\Compilation_2_File_15.pdb

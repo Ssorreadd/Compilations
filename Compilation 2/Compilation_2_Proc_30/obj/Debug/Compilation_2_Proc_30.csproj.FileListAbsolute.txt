@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\bin\Debug\Compilation_2_Proc_30.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\bin\Debug\Compilation_2_Proc_30.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\bin\Debug\Compilation_2_Proc_30.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\obj\Debug\Compilation_2_Proc_30.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\obj\Debug\Compilation_2_Proc_30.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\obj\Debug\Compilation_2_Proc_30.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Proc_30\obj\Debug\Compilation_2_Proc_30.pdb

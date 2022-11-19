@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\bin\Debug\Compilation_2_String_14.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\bin\Debug\Compilation_2_String_14.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\bin\Debug\Compilation_2_String_14.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\obj\Debug\Compilation_2_String_14.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\obj\Debug\Compilation_2_String_14.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\obj\Debug\Compilation_2_String_14.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_String_14\obj\Debug\Compilation_2_String_14.pdb

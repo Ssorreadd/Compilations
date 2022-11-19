@@ -1,0 +1,6 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Matrix_7\bin\Debug\Compilation_2_Matrix_7.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Matrix_7\bin\Debug\Compilation_2_Matrix_7.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Matrix_7\bin\Debug\Compilation_2_Matrix_7.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Matrix_7\obj\Debug\Compilation_2_Matrix_7.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Matrix_7\obj\Debug\Compilation_2_Matrix_7.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Matrix_7\obj\Debug\Compilation_2_Matrix_7.pdb
