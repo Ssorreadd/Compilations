@@ -1,0 +1,7 @@
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\bin\Debug\Compilation_2_Text_57.exe.config
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\bin\Debug\Compilation_2_Text_57.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\bin\Debug\Compilation_2_Text_57.pdb
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\obj\Debug\Compilation_2_Text_57.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\obj\Debug\Compilation_2_Text_57.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\obj\Debug\Compilation_2_Text_57.exe
+D:\Repository\GitHub Repository\Compilations\Compilation 2\Compilation_2_Text_57\obj\Debug\Compilation_2_Text_57.pdb
